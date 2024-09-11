@@ -1,0 +1,15 @@
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/bin/Debug/net8.0/Final
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/bin/Debug/net8.0/Final.deps.json
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/bin/Debug/net8.0/Final.dll
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/bin/Debug/net8.0/Final.pdb
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/obj/Debug/net8.0/Final.dll
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/obj/Debug/net8.0/refint/Final.dll
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/obj/Debug/net8.0/Final.pdb
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/Users/alexandraknott/Documents/Guided-project/GuidedProject/Final/obj/Debug/net8.0/ref/Final.dll
